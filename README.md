@@ -2,14 +2,13 @@ nlp学习笔记，以记录自己的成长，也希望能帮助更多初入nlp�
 
 * [目录](README.md)
     * python&Ipython
-        * [Task01 学习概览](transformers_nlp28/task01.md)
+        * [实用python包](./python&IPython/python日常实用工具包.ipynb)
     * pandas
-        * [cheatsheet](pandas/pandas.ipynb)
-        * [实用python包]()
+        * [cheatsheet](./pandas/pandas.ipynb)
     * machine learning原理
-        * [cheatsheet](machine%20learning原理/cheatsheet.ipynb)
+        * [cheatsheet](./MachineLearning/cheatsheet.ipynb)
     * nlp
-        * [nlu](nlp/nlu.md)
+        * [nlu](./nlp/nlu.md)
     * Scikit-learn
-        * [classify_demo](Scikit-learn/ClassifyDemo.py)
+        * [classify_demo](./Scikit-learn/ClassifyDemo.py)
     * Transformers
