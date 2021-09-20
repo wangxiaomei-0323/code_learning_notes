@@ -4,7 +4,7 @@ python&Ipython
 pandas
 * [cheatsheet](./pandas/pandas.ipynb)
 machine learning原理
-* [cheatsheet](./MachineLearning/cheatsheet.ipynb)
+* [cheatsheet](./MachineLearning/cheatsheet.md)
 nlp
 * [nlu](./nlp/nlu.md)
 Scikit-learn
