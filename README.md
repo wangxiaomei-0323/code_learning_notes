@@ -6,7 +6,7 @@ nlp学习笔记，以记录自己的成长，也希望能帮助更多初入nlp�
     * pandas
         * [cheatsheet](./pandas/pandas.ipynb)
     * machine learning原理
-        * [cheatsheet](./MachineLearning/cheatsheet.ipynb)
+        * [cheatsheet](./MachineLearning/cheatsheet.md)
     * nlp
         * [nlu](./nlp/nlu.md)
     * Scikit-learn
